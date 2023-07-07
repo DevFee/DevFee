@@ -4,12 +4,11 @@
 
 > "Some quote do you like" - Author
 
-## Hello World ! I am Felipe(https://DevFee.github.io./) 👋
+# Prazer, [Felipe](https://DevFee.github.io./) 👋
 
-### You titles | You titles | You titles 
+### Desenvolvedor Front-End | Front-End Developer
 
-- 🧐 I’m currently working on [you work](https://brunomarcosluz.github.io./)
-- 🌱 I’m currently specializing in 'Your Area'.
+- 🌱 Atualmente me especializando em: React e JS.
 - 💬 Ask me about: 'You specializations'
 - 📫 How to reach me: [@pasteyourmediahere](https://twitter.com/brunomarcosluz)
 
