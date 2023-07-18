@@ -1,10 +1,4 @@
-[](/assets/banner-readme-templates.png) 
-
-[comment]: <> (i create my banner in Canva editor for free.)
-
-> "Some quote do you like" - Author
-
-# Prazer, [Felipe](https://DevFee.github.io./) 👋
+# Hello / Prazer, [Felipe](https://DevFee.github.io./) 👋
 
 ### Desenvolvedor Front-End | Front-End Developer
 
