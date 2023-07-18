@@ -8,12 +8,9 @@
 
 ## 🤝 Follow my work on
 
-[comment]: <> (Change the 'alt' and link bellow. Follow me neither ;))
-
-[<img align="left" alt="brunomarcosluz | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/bruno.luz.9828)
-[<img align="left" alt="brunomarcosluz | Twitter" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA)
-[<img align="left" alt="brunomarcosluz | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bruno-luz-comunicacao-desenvolvimento-tecnologia/)
-[<img align="left" alt="brunomarcosluz | TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" />](https://www.tiktok.com/@brunomarcosluz)
+[<img align="left" alt="brunomarcosluz | Twitter" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />]([https://www.youtube.com/channel/UCMqHKG1_So1rEtcMTMJLqjA](https://www.youtube.com/channel/UCHcQO1lI_kzhzxXIMOtUpqQ))
+[<img align="left" alt="brunomarcosluz | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/bruno-luz-comunicacao-desenvolvimento-tecnologia/](https://www.linkedin.com/in/felipe-gabriel-b02919271/))
+[<img align="left" alt="brunomarcosluz | TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" />]([https://www.tiktok.com/@brunomarcosluz](https://www.tiktok.com/@devfe_))
 <br>
 
 ## 👨‍💻 Languages and Tools
@@ -27,15 +24,3 @@
 
 <br>
 <br/>
-
-## 👨‍🎨 Explore some of my repositories, have fun
-
-[comment]: <> (Here i use the vercel api, change the references in the url bellow)
-
-<a href="https://github.com/brunomarcosluz/Jornada-Ninja-Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
-</a>
-
-<a href="https://github.com/brunomarcosluz/flutter-master-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=flutter-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"
-</a>
