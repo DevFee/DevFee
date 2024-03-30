@@ -8,4 +8,4 @@
 
 </br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=DevFee&show_icons=true&theme=transparent)
+![stats](https://github-readme-stats.vercel.app/api?username=DevFee&show_icons=true&theme=merko)
